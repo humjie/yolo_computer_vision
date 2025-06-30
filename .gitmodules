@@ -1,0 +1,6 @@
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/microsoft/vcpkg.git
+[submodule "yolo_v11s/librealsense"]
+	path = yolo_v11s/librealsense
+	url = https://github.com/IntelRealSense/librealsense.git
